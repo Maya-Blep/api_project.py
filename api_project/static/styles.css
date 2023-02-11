@@ -1,0 +1,21 @@
+
+body {
+    text-align: center;
+    background:rgb(213, 167, 156);
+}
+
+p {
+    font-size: 20px;
+    color:rgb(205, 135, 114);
+    font-family:'Courier New', Courier, monospace;
+    align-items: center;
+
+}
+
+h4 {
+    color:rgb(205, 135, 114);
+    font-size: 20px;
+    font-family:'Arial, Helvetica', sans-serif;
+    align-items: center;
+
+}
